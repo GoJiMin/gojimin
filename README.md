@@ -27,5 +27,6 @@ Prolip은 Protein과 Deadlift를 조합한 닉네임입니다.
 
   </br>
   
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=prolip)](https://solved.ac/prolip/) 
+  [![Solved.ac Profile](https://mazassumnida.wtf/api/v2/generate_badge?boj=prolip)](https://solved.ac/prolip/) 
+  [![mazandi profile](https://mazandi.herokuapp.com/api?handle=prolip&theme=warm)](https://solved.ac/prolip/) 
 </div>
