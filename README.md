@@ -10,8 +10,7 @@ Prolip은 Protein과 Deadlift를 조합한 닉네임입니다.
 
 블로그는 개발 도중 있었던 일들을 기록하는 데 사용하고 있습니다.
 
-마인크래프트.. 하고 싶습니다.
-
+항상 '왜?'를 생각하려고 하지만 그것도 '왜?'를 생각하다 Maximum call stack size exceeded 에러가 발생합니다..
 <div align="center">
   
   ### Tech Stacks
